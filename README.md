@@ -5,7 +5,7 @@ Images
 To see a demo of this CLI node app in action check out these Images:
 
 Successful Buy:
-
+https://github.com/ml042685/Bamazon/blob/master/Bamazon%20snapshot%201.JPG
 
 Not a Valid Buy & QUIT:
 
