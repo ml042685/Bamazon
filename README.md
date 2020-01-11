@@ -1,4 +1,5 @@
 #bamazon
+
 10th Homework Assignment for UCI Coding Bootcamp - Build a command line app the mimics an online store using nodejs and mysql
 
 Images
@@ -8,7 +9,7 @@ Successful Buy:
 https://github.com/ml042685/Bamazon/blob/master/Bamazon%20snapshot%201.JPG
 
 Not a Valid Buy & QUIT:
-
+https://github.com/ml042685/Bamazon/blob/master/Bamazon%20snapshot%202.JPG
 
 
 Overview
