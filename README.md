@@ -1,4 +1,4 @@
-#bamazon
+# Bamazon
 
 10th Homework Assignment for UCI Coding Bootcamp - Build a command line app the mimics an online store using nodejs and mysql
 
