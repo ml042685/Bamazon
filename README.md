@@ -1,7 +1,5 @@
 # Bamazon
 
-10th Homework Assignment for UCI Coding Bootcamp - Build a command line app the mimics an online store using nodejs and mysql
-
 Images
 To see a demo of this CLI node app in action check out these Images:
 
@@ -48,3 +46,4 @@ However, if your store does have enough of the product, you should fulfill the c
 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
+
